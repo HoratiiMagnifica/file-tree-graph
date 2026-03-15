@@ -8,7 +8,7 @@
 
 
 ```bash
-git clone https://github.com/yourusername/file-tree-graph.git
+git clone https://github.com/HoratiiMagnifica/file-tree-graph.git
 cd file-tree-graph
 chmod +x install.sh
 ./install.sh
